@@ -3,12 +3,12 @@
     {
         "id": 1,
         "title": "Hello",
-        "mp3location": ".\\mp3\\hello.mp3"
+        "mp3location": "./mp3/hello.mp3"
     },
     {
         "id": 2,
         "title": "Bello",
-        "mp3location": ".\\mp3\\hello.mp3"
+        "mp3location": "./mp3/hello.mp3"
     }
 
 ]
