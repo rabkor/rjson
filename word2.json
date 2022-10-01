@@ -1,15 +1,14 @@
 [
-
     {
         "id": 0,
         "title": "sirály",
-        "type": "audio/x-m4a"
+        "type": "audio/x-m4a",
         "mp3location": "./mp3/siraly.m4a"
     },
     {
         "id": 1,
         "title": "kiraly",
-        "type": "audio/x-m4a"
+        "type": "audio/x-m4a",
         "mp3location": "./mp3/kiraly.m4a"
     }
 ]
